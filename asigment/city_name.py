@@ -1,0 +1,2 @@
+city="lahore"
+print(city)
